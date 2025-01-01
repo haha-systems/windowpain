@@ -49,7 +49,8 @@ pub fn readSequenceWindow(file: fs.File, sequence: FastaSequence, window_start: 
     const aligned_offset = (file_position / page_size) * page_size;
     const offset_adjustment = file_position - aligned_offset;
 
-    const map_size = actual_window_size + offset_adjustment;
+    // Increase map_size to ensure we get all data including potential newlines
+    const map_size = actual_window_size * 2 + offset_adjustment; // multiply by 2 to account for worst case of newlines
 
     const ptr = try std.posix.mmap(
         null,
@@ -61,22 +62,28 @@ pub fn readSequenceWindow(file: fs.File, sequence: FastaSequence, window_start: 
     );
     defer std.posix.munmap(ptr[0..map_size]);
 
-    // Count newlines in the window to allocate correct buffer size
-    var newline_count: usize = 0;
-    for (ptr[offset_adjustment..map_size]) |c| {
-        if (c == '\n') newline_count += 1;
+    // Pre-scan to count newlines and determine actual data size
+    var data_count: usize = 0;
+    var i: usize = offset_adjustment;
+    while (data_count < actual_window_size and i < map_size) {
+        if (ptr[i] != '\n') {
+            data_count += 1;
+        }
+        i += 1;
     }
 
-    // Allocate buffer for sequence without newlines
-    var sequence_data = try std.heap.page_allocator.alloc(u8, actual_window_size - newline_count);
+    // Allocate exact size needed
+    var sequence_data = try std.heap.page_allocator.alloc(u8, actual_window_size);
 
     // Copy data, skipping newlines
+    var read_pos: usize = offset_adjustment;
     var write_pos: usize = 0;
-    for (ptr[offset_adjustment..map_size]) |c| {
-        if (c != '\n') {
-            sequence_data[write_pos] = c;
+    while (write_pos < actual_window_size) {
+        if (ptr[read_pos] != '\n') {
+            sequence_data[write_pos] = ptr[read_pos];
             write_pos += 1;
         }
+        read_pos += 1;
     }
 
     return sequence_data;
@@ -189,4 +196,34 @@ test "loadIndex basic functionality" {
     try testing.expectEqualStrings(">test1", sequences.items[0].header);
     try testing.expectEqual(@as(usize, 0), sequences.items[0].position);
     try testing.expectEqual(@as(usize, 10), sequences.items[0].length);
+}
+
+test "readSequenceWindow with newlines" {
+    // Create a temporary test file
+    const test_path = "test.fasta";
+    const test_content =
+        \\>test sequence
+        \\ACTG
+        \\GTCA
+        \\
+    ;
+
+    const file = try fs.cwd().createFile(test_path, .{ .read = true });
+    defer {
+        file.close();
+        fs.cwd().deleteFile(test_path) catch {};
+    }
+
+    try file.writeAll(test_content);
+
+    const sequence = FastaSequence{
+        .header = ">test sequence",
+        .position = 14,
+        .length = 8,
+    };
+
+    const window = try readSequenceWindow(file, sequence, 0, 8);
+    defer std.heap.page_allocator.free(window);
+
+    try testing.expectEqualStrings("ACTGGTCA", window);
 }

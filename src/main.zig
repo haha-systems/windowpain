@@ -94,6 +94,10 @@ pub fn scanFastaSequences(file: fs.File, allocator: std.mem.Allocator) !std.Arra
     return sequences;
 }
 
+pub const ReadOptions = struct {
+    raw: bool = false,
+};
+
 pub fn main() !void {
     if (.windows == @import("builtin").os.tag) {
         std.debug.print("MMap is not supported in Windows\n", .{});
@@ -153,9 +157,15 @@ pub fn main() !void {
             print("  Time taken: {d}ms\n", .{elapsed_ns / std.time.ns_per_ms});
         },
         .read => {
-            if (args.len < 5 or args.len > 7) {
-                print("Usage: {s} read <fasta_filename> <index.json> <sequence_index> [window_size] [window_start]\n", .{args[0]});
+            if (args.len < 5 or args.len > 8) {
+                std.debug.print("Usage: {s} read <fasta_filename> <index.json> <sequence_index> [window_size] [window_start] [--raw]\n", .{args[0]});
                 return error.InvalidArguments;
+            }
+
+            // Parse options
+            var options = ReadOptions{};
+            if (args.len > 7 and std.mem.eql(u8, args[7], "--raw")) {
+                options.raw = true;
             }
 
             const fasta_filename = args[2];
@@ -191,12 +201,19 @@ pub fn main() !void {
             const sequence_data = try readSequenceWindow(file, sequence, window_start, window_size);
             defer std.heap.page_allocator.free(sequence_data);
 
-            const end_time = timer.lap();
-            const elapsed_ns = end_time - start_time;
-            print("\nSequence read complete:\n", .{});
-            print("  Sequence length: {d}\n", .{sequence_data.len});
-            print("  Time taken: {d}ms\n", .{elapsed_ns / std.time.ns_per_ms});
-            print("\nSequence data:\n{s}\n", .{sequence_data});
+            if (options.raw) {
+                // Write directly to stdout for piping
+                const stdout = std.io.getStdOut();
+                try stdout.writeAll(sequence_data);
+            } else {
+                // Normal formatted output
+                const end_time = timer.lap();
+                const elapsed_ns = end_time - start_time;
+                std.debug.print("\nSequence read complete:\n", .{});
+                std.debug.print("  Sequence length: {d}\n", .{sequence_data.len});
+                std.debug.print("  Time taken: {d}ms\n", .{elapsed_ns / std.time.ns_per_ms});
+                std.debug.print("\nSequence data:\n{s}\n", .{sequence_data});
+            }
         },
     }
 }
