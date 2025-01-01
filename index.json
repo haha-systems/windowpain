@@ -1,0 +1,3547 @@
+[
+  {
+    "header": ">CM000663.2 Homo sapiens chromosome 1, GRCh38 reference primary assembly",
+    "position": 73,
+    "length": 1035559
+  },
+  {
+    "header": ">KI270706.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252068551,
+    "length": 175055
+  },
+  {
+    "header": ">KI270707.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252245895,
+    "length": 32032
+  },
+  {
+    "header": ">KI270708.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252278428,
+    "length": 127682
+  },
+  {
+    "header": ">KI270709.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252407807,
+    "length": 66860
+  },
+  {
+    "header": ">KI270710.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252475603,
+    "length": 40176
+  },
+  {
+    "header": ">KI270711.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252516382,
+    "length": 42210
+  },
+  {
+    "header": ">KI270712.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252559220,
+    "length": 145774
+  },
+  {
+    "header": ">KI270713.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252737564,
+    "length": 40745
+  },
+  {
+    "header": ">KI270714.1 Homo sapiens chromosome 1 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 252778919,
+    "length": 41717
+  },
+  {
+    "header": ">CM000664.2 Homo sapiens chromosome 2, GRCh38 reference primary assembly",
+    "position": 252821231,
+    "length": 922629
+  },
+  {
+    "header": ">KI270715.1 Homo sapiens chromosome 2 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 498042280,
+    "length": 30934
+  },
+  {
+    "header": ">KI270716.1 Homo sapiens chromosome 2 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 498205870,
+    "length": 153799
+  },
+  {
+    "header": ">CM000665.2 Homo sapiens chromosome 3, GRCh38 reference primary assembly",
+    "position": 498361665,
+    "length": 751122
+  },
+  {
+    "header": ">GL000221.1 Homo sapiens chromosome 3 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 699136019,
+    "length": 155397
+  },
+  {
+    "header": ">CM000666.2 Homo sapiens chromosome 4, GRCh38 reference primary assembly",
+    "position": 699293432,
+    "length": 105442
+  },
+  {
+    "header": ">GL000008.2 Homo sapiens chromosome 4 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 891885769,
+    "length": 209709
+  },
+  {
+    "header": ">CM000667.2 Homo sapiens chromosome 5, GRCh38 reference primary assembly",
+    "position": 892098173,
+    "length": 237041
+  },
+  {
+    "header": ">GL000208.1 Homo sapiens chromosome 5 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 1075905761,
+    "length": 92689
+  },
+  {
+    "header": ">CM000668.2 Homo sapiens chromosome 6, GRCh38 reference primary assembly",
+    "position": 1075999682,
+    "length": 876909
+  },
+  {
+    "header": ">CM000669.2 Homo sapiens chromosome 7, GRCh38 reference primary assembly",
+    "position": 1248940809,
+    "length": 949910
+  },
+  {
+    "header": ">CM000670.2 Homo sapiens chromosome 8, GRCh38 reference primary assembly",
+    "position": 1410278680,
+    "length": 55349
+  },
+  {
+    "header": ">CM000671.2 Homo sapiens chromosome 9, GRCh38 reference primary assembly",
+    "position": 1557231622,
+    "length": 940558
+  },
+  {
+    "header": ">KI270717.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 1697356373,
+    "length": 40062
+  },
+  {
+    "header": ">KI270718.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 1697397036,
+    "length": 38054
+  },
+  {
+    "header": ">KI270719.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 1697435666,
+    "length": 176845
+  },
+  {
+    "header": ">KI270720.1 Homo sapiens chromosome 9 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 1697614822,
+    "length": 29356
+  },
+  {
+    "header": ">CM000672.2 Homo sapiens chromosome 10, GRCh38 reference primary assembly",
+    "position": 1697654435,
+    "length": 1025862
+  },
+  {
+    "header": ">CM000673.2 Homo sapiens chromosome 11, GRCh38 reference primary assembly",
+    "position": 1833124399,
+    "length": 824717
+  },
+  {
+    "header": ">KI270721.1 Homo sapiens chromosome 11 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 1969899705,
+    "length": 100316
+  },
+  {
+    "header": ">CM000674.2 Homo sapiens chromosome 12, GRCh38 reference primary assembly",
+    "position": 1970001349,
+    "length": 269586
+  },
+  {
+    "header": ">CM000675.2 Homo sapiens chromosome 13, GRCh38 reference primary assembly",
+    "position": 2104942674,
+    "length": 590553
+  },
+  {
+    "header": ">CM000676.2 Homo sapiens chromosome 14, GRCh38 reference primary assembly",
+    "position": 2220736631,
+    "length": 145519
+  },
+  {
+    "header": ">GL000009.2 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2329118497,
+    "length": 201709
+  },
+  {
+    "header": ">GL000225.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2329322829,
+    "length": 211173
+  },
+  {
+    "header": ">KI270722.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2329536743,
+    "length": 194050
+  },
+  {
+    "header": ">GL000194.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2329733320,
+    "length": 191469
+  },
+  {
+    "header": ">KI270723.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2329927284,
+    "length": 8482
+  },
+  {
+    "header": ">KI270724.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2329965977,
+    "length": 39555
+  },
+  {
+    "header": ">KI270725.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2330006128,
+    "length": 172810
+  },
+  {
+    "header": ">KI270726.1 Homo sapiens chromosome 14 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2330181200,
+    "length": 43739
+  },
+  {
+    "header": ">CM000677.2 Homo sapiens chromosome 15, GRCh38 reference primary assembly",
+    "position": 2330225560,
+    "length": 749520
+  },
+  {
+    "header": ">KI270727.1 Homo sapiens chromosome 15 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2433491740,
+    "length": 250031
+  },
+  {
+    "header": ">CM000678.2 Homo sapiens chromosome 16, GRCh38 reference primary assembly",
+    "position": 2433945666,
+    "length": 837340
+  },
+  {
+    "header": ">KI270728.1 Homo sapiens chromosome 16 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2525413342,
+    "length": 598758
+  },
+  {
+    "header": ">CM000679.2 Homo sapiens chromosome 17, GRCh38 reference primary assembly",
+    "position": 2527309585,
+    "length": 797187
+  },
+  {
+    "header": ">GL000205.2 Homo sapiens chromosome 17 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2611607846,
+    "length": 185591
+  },
+  {
+    "header": ">KI270729.1 Homo sapiens chromosome 17 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2611795858,
+    "length": 204403
+  },
+  {
+    "header": ">KI270730.1 Homo sapiens chromosome 17 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2612080309,
+    "length": 112551
+  },
+  {
+    "header": ">CM000680.2 Homo sapiens chromosome 18, GRCh38 reference primary assembly",
+    "position": 2612194341,
+    "length": 846471
+  },
+  {
+    "header": ">CM000681.2 Homo sapiens chromosome 19, GRCh38 reference primary assembly",
+    "position": 2693572367,
+    "length": 216669
+  },
+  {
+    "header": ">CM000682.2 Homo sapiens chromosome 20, GRCh38 reference primary assembly",
+    "position": 2752922778,
+    "length": 629924
+  },
+  {
+    "header": ">CM000683.2 Homo sapiens chromosome 21, GRCh38 reference primary assembly",
+    "position": 2818172572,
+    "length": 394782
+  },
+  {
+    "header": ">CM000684.2 Homo sapiens chromosome 22, GRCh38 reference primary assembly",
+    "position": 2865466504,
+    "length": 288103
+  },
+  {
+    "header": ">KI270731.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2916920304,
+    "length": 150754
+  },
+  {
+    "header": ">KI270732.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917073044,
+    "length": 41543
+  },
+  {
+    "header": ">KI270733.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917115208,
+    "length": 22938
+  },
+  {
+    "header": ">KI270734.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917297329,
+    "length": 165050
+  },
+  {
+    "header": ">KI270735.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917464544,
+    "length": 42811
+  },
+  {
+    "header": ">KI270736.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917507992,
+    "length": 181920
+  },
+  {
+    "header": ">KI270737.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917692287,
+    "length": 103838
+  },
+  {
+    "header": ">KI270738.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917797524,
+    "length": 99375
+  },
+  {
+    "header": ">KI270739.1 Homo sapiens chromosome 22 unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 2917898243,
+    "length": 73985
+  },
+  {
+    "header": ">CM000685.2 Homo sapiens chromosome X, GRCh38 reference primary assembly",
+    "position": 2917973226,
+    "length": 211143
+  },
+  {
+    "header": ">CM000686.2 Homo sapiens chromosome Y, GRCh38 reference primary assembly",
+    "position": 3075964706,
+    "length": 550399
+  },
+  {
+    "header": ">KI270740.1 Homo sapiens chromosome Y unlocalized genomic contig, GRCh38 reference primary assembly",
+    "position": 3133907564,
+    "length": 37240
+  },
+  {
+    "header": ">KI270302.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133945354,
+    "length": 2274
+  },
+  {
+    "header": ">KI270304.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133947741,
+    "length": 2165
+  },
+  {
+    "header": ">KI270303.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133950018,
+    "length": 1942
+  },
+  {
+    "header": ">KI270305.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133952069,
+    "length": 1472
+  },
+  {
+    "header": ">KI270322.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133953644,
+    "length": 21476
+  },
+  {
+    "header": ">KI270320.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133975473,
+    "length": 4416
+  },
+  {
+    "header": ">KI270310.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133980029,
+    "length": 1201
+  },
+  {
+    "header": ">KI270316.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133981330,
+    "length": 1444
+  },
+  {
+    "header": ">KI270315.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133982877,
+    "length": 2276
+  },
+  {
+    "header": ">KI270312.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133985266,
+    "length": 998
+  },
+  {
+    "header": ">KI270311.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133986361,
+    "length": 12399
+  },
+  {
+    "header": ">KI270317.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3133998999,
+    "length": 37690
+  },
+  {
+    "header": ">KI270412.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134037245,
+    "length": 1179
+  },
+  {
+    "header": ">KI270411.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134038523,
+    "length": 2646
+  },
+  {
+    "header": ">KI270414.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134041287,
+    "length": 2489
+  },
+  {
+    "header": ">KI270419.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134043892,
+    "length": 1029
+  },
+  {
+    "header": ">KI270418.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134045018,
+    "length": 2145
+  },
+  {
+    "header": ">KI270420.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134047274,
+    "length": 2321
+  },
+  {
+    "header": ">KI270424.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134049709,
+    "length": 2140
+  },
+  {
+    "header": ">KI270417.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134051960,
+    "length": 2043
+  },
+  {
+    "header": ">KI270422.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134054113,
+    "length": 1445
+  },
+  {
+    "header": ">KI270423.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134055661,
+    "length": 981
+  },
+  {
+    "header": ">KI270425.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134056739,
+    "length": 1884
+  },
+  {
+    "header": ">KI270429.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134058731,
+    "length": 1361
+  },
+  {
+    "header": ">KI270442.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134060194,
+    "length": 131823
+  },
+  {
+    "header": ">KI270466.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134457240,
+    "length": 1233
+  },
+  {
+    "header": ">KI270465.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134458573,
+    "length": 1774
+  },
+  {
+    "header": ">KI270467.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134460454,
+    "length": 3920
+  },
+  {
+    "header": ">KI270435.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134464507,
+    "length": 92983
+  },
+  {
+    "header": ">KI270438.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134558737,
+    "length": 112505
+  },
+  {
+    "header": ">KI270468.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134672733,
+    "length": 4055
+  },
+  {
+    "header": ">KI270510.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134676923,
+    "length": 2415
+  },
+  {
+    "header": ">KI270509.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134679453,
+    "length": 2318
+  },
+  {
+    "header": ">KI270518.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134681884,
+    "length": 2186
+  },
+  {
+    "header": ">KI270508.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134684182,
+    "length": 1951
+  },
+  {
+    "header": ">KI270516.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134686242,
+    "length": 1300
+  },
+  {
+    "header": ">KI270512.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134687643,
+    "length": 22689
+  },
+  {
+    "header": ">KI270519.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134710700,
+    "length": 138126
+  },
+  {
+    "header": ">KI270522.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134850637,
+    "length": 5674
+  },
+  {
+    "header": ">KI270511.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134856466,
+    "length": 8127
+  },
+  {
+    "header": ">KI270515.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134864779,
+    "length": 6361
+  },
+  {
+    "header": ">KI270507.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134871304,
+    "length": 5353
+  },
+  {
+    "header": ">KI270517.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134876808,
+    "length": 3253
+  },
+  {
+    "header": ">KI270529.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134880186,
+    "length": 1899
+  },
+  {
+    "header": ">KI270528.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134882193,
+    "length": 2983
+  },
+  {
+    "header": ">KI270530.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134885298,
+    "length": 2168
+  },
+  {
+    "header": ">KI270539.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134887578,
+    "length": 993
+  },
+  {
+    "header": ">KI270538.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134888668,
+    "length": 91309
+  },
+  {
+    "header": ">KI270544.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134981203,
+    "length": 1202
+  },
+  {
+    "header": ">KI270548.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134982505,
+    "length": 1599
+  },
+  {
+    "header": ">KI270583.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134984208,
+    "length": 1400
+  },
+  {
+    "header": ">KI270587.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134985710,
+    "length": 2969
+  },
+  {
+    "header": ">KI270580.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134988801,
+    "length": 1553
+  },
+  {
+    "header": ">KI270581.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134990458,
+    "length": 7046
+  },
+  {
+    "header": ">KI270579.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3134997677,
+    "length": 31033
+  },
+  {
+    "header": ">KI270589.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135029182,
+    "length": 44474
+  },
+  {
+    "header": ">KI270590.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135074296,
+    "length": 4685
+  },
+  {
+    "header": ">KI270584.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135079124,
+    "length": 4513
+  },
+  {
+    "header": ">KI270582.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135083778,
+    "length": 6504
+  },
+  {
+    "header": ">KI270588.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135090448,
+    "length": 6158
+  },
+  {
+    "header": ">KI270593.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135096767,
+    "length": 3041
+  },
+  {
+    "header": ">KI270591.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135099931,
+    "length": 5796
+  },
+  {
+    "header": ">KI270330.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135105884,
+    "length": 1652
+  },
+  {
+    "header": ">KI270329.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135107641,
+    "length": 1040
+  },
+  {
+    "header": ">KI270334.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135108778,
+    "length": 1368
+  },
+  {
+    "header": ">KI270333.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135110248,
+    "length": 2699
+  },
+  {
+    "header": ">KI270335.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135113065,
+    "length": 1048
+  },
+  {
+    "header": ">KI270338.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135114211,
+    "length": 1428
+  },
+  {
+    "header": ">KI270340.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135115741,
+    "length": 1428
+  },
+  {
+    "header": ">KI270336.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135117271,
+    "length": 1026
+  },
+  {
+    "header": ">KI270337.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135118394,
+    "length": 1121
+  },
+  {
+    "header": ">KI270363.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135119614,
+    "length": 1803
+  },
+  {
+    "header": ">KI270364.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135121524,
+    "length": 2855
+  },
+  {
+    "header": ">KI270362.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135124499,
+    "length": 3530
+  },
+  {
+    "header": ">KI270366.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135128158,
+    "length": 8320
+  },
+  {
+    "header": ">KI270378.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135136666,
+    "length": 1048
+  },
+  {
+    "header": ">KI270379.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135137812,
+    "length": 1045
+  },
+  {
+    "header": ">KI270389.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135138955,
+    "length": 1298
+  },
+  {
+    "header": ">KI270390.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135140354,
+    "length": 2387
+  },
+  {
+    "header": ">KI270387.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135142855,
+    "length": 1537
+  },
+  {
+    "header": ">KI270395.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135144496,
+    "length": 1143
+  },
+  {
+    "header": ">KI270396.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135145738,
+    "length": 1880
+  },
+  {
+    "header": ">KI270388.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135147726,
+    "length": 1216
+  },
+  {
+    "header": ">KI270394.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135149042,
+    "length": 970
+  },
+  {
+    "header": ">KI270386.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135150109,
+    "length": 1788
+  },
+  {
+    "header": ">KI270391.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135152004,
+    "length": 1484
+  },
+  {
+    "header": ">KI270383.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135153591,
+    "length": 1750
+  },
+  {
+    "header": ">KI270393.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135155447,
+    "length": 1308
+  },
+  {
+    "header": ">KI270384.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135156856,
+    "length": 1658
+  },
+  {
+    "header": ">KI270392.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135158619,
+    "length": 971
+  },
+  {
+    "header": ">KI270381.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135159687,
+    "length": 1930
+  },
+  {
+    "header": ">KI270385.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135161726,
+    "length": 990
+  },
+  {
+    "header": ">KI270382.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135162813,
+    "length": 4215
+  },
+  {
+    "header": ">KI270376.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135167165,
+    "length": 1136
+  },
+  {
+    "header": ">KI270374.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135168400,
+    "length": 2656
+  },
+  {
+    "header": ">KI270372.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135171174,
+    "length": 1650
+  },
+  {
+    "header": ">KI270373.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135172929,
+    "length": 1451
+  },
+  {
+    "header": ">KI270375.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135174483,
+    "length": 2378
+  },
+  {
+    "header": ">KI270371.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135176975,
+    "length": 2805
+  },
+  {
+    "header": ">KI270448.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135179900,
+    "length": 7992
+  },
+  {
+    "header": ">KI270521.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135188076,
+    "length": 7642
+  },
+  {
+    "header": ">GL000195.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135195898,
+    "length": 45770
+  },
+  {
+    "header": ">GL000219.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135381165,
+    "length": 179198
+  },
+  {
+    "header": ">GL000220.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135562687,
+    "length": 161802
+  },
+  {
+    "header": ">GL000224.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135726596,
+    "length": 179693
+  },
+  {
+    "header": ">KI270741.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3135908620,
+    "length": 157432
+  },
+  {
+    "header": ">GL000226.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136068104,
+    "length": 15008
+  },
+  {
+    "header": ">GL000213.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136083384,
+    "length": 164239
+  },
+  {
+    "header": ">KI270743.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136249760,
+    "length": 40550
+  },
+  {
+    "header": ">KI270744.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136463136,
+    "length": 168472
+  },
+  {
+    "header": ">KI270745.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136633798,
+    "length": 41891
+  },
+  {
+    "header": ">KI270746.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136676297,
+    "length": 66486
+  },
+  {
+    "header": ">KI270747.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136743699,
+    "length": 198735
+  },
+  {
+    "header": ">KI270748.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3136945003,
+    "length": 93321
+  },
+  {
+    "header": ">KI270749.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137039575,
+    "length": 158759
+  },
+  {
+    "header": ">KI270750.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137200403,
+    "length": 137274
+  },
+  {
+    "header": ">KI270751.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137351198,
+    "length": 150742
+  },
+  {
+    "header": ">KI270752.1 UNVERIFIED_ORG: Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137503925,
+    "length": 27745
+  },
+  {
+    "header": ">KI270753.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137532101,
+    "length": 62944
+  },
+  {
+    "header": ">KI270754.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137595916,
+    "length": 40191
+  },
+  {
+    "header": ">KI270755.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137636694,
+    "length": 36723
+  },
+  {
+    "header": ">KI270756.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137673961,
+    "length": 79590
+  },
+  {
+    "header": ">KI270757.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137754630,
+    "length": 71251
+  },
+  {
+    "header": ">GL000214.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137826856,
+    "length": 137718
+  },
+  {
+    "header": ">KI270742.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3137966380,
+    "length": 186739
+  },
+  {
+    "header": ">GL000216.2 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3138155538,
+    "length": 176608
+  },
+  {
+    "header": ">GL000218.1 Homo sapiens unplaced genomic contig, GRCh38 reference primary assembly",
+    "position": 3138334438,
+    "length": 52870
+  },
+  {
+    "header": ">KQ031383.1 Homo sapiens chromosome 1 genomic contig HG1342_HG2282_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3138497718,
+    "length": 467143
+  },
+  {
+    "header": ">KQ983255.1 Homo sapiens chromosome 1 genomic contig HSCHR1_5_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3138970815,
+    "length": 278659
+  },
+  {
+    "header": ">MU273333.1 Homo sapiens chromosome 1 genomic contig HG1343_HG173_HG459_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3139253081,
+    "length": 181199
+  },
+  {
+    "header": ">KN538361.1 Homo sapiens chromosome 1 genomic contig HG2095_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3140845537,
+    "length": 305542
+  },
+  {
+    "header": ">KQ458383.1 Homo sapiens chromosome 1 genomic contig HSCHR1_4_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3141155013,
+    "length": 349938
+  },
+  {
+    "header": ">KN196473.1 Homo sapiens chromosome 1 genomic contig HG2058_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3141509437,
+    "length": 23960
+  },
+  {
+    "header": ">KZ208904.1 Homo sapiens chromosome 1 genomic contig HSCHR1_8_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3141677829,
+    "length": 166136
+  },
+  {
+    "header": ">KZ559100.1 Homo sapiens chromosome 1 genomic contig HG460_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3141846152,
+    "length": 44955
+  },
+  {
+    "header": ">KN196472.1 Homo sapiens chromosome 1 genomic contig HG986_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3141891779,
+    "length": 186494
+  },
+  {
+    "header": ">KZ208905.1 Homo sapiens chromosome 1 genomic contig HSCHR1_9_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3142080719,
+    "length": 140355
+  },
+  {
+    "header": ">KQ458382.1 Homo sapiens chromosome 1 genomic contig HSCHR1_3_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3142222943,
+    "length": 141019
+  },
+  {
+    "header": ">KV880763.1 Homo sapiens chromosome 1 genomic contig HSCHR1_6_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3142365839,
+    "length": 213761
+  },
+  {
+    "header": ">KN196474.1 Homo sapiens chromosome 1 genomic contig HG2104_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3142923858,
+    "length": 122022
+  },
+  {
+    "header": ">MU273330.1 Homo sapiens chromosome 1 genomic contig HSCHR1_12_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3143047521,
+    "length": 516764
+  },
+  {
+    "header": ">MU273335.1 Homo sapiens chromosome 1 genomic contig HG2515_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3143570856,
+    "length": 59252
+  },
+  {
+    "header": ">MU273336.1 Homo sapiens chromosome 1 genomic contig HG2577_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3143785551,
+    "length": 250447
+  },
+  {
+    "header": ">MU273331.1 Homo sapiens chromosome 1 genomic contig HSCHR1_5_CTG31, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3144039244,
+    "length": 632277
+  },
+  {
+    "header": ">KN538360.1 Homo sapiens chromosome 1 genomic contig HG1832_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3144897390,
+    "length": 460100
+  },
+  {
+    "header": ">KZ208906.1 Homo sapiens chromosome 1 genomic contig HG2002_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3145363353,
+    "length": 330031
+  },
+  {
+    "header": ">KQ458384.1 Homo sapiens chromosome 1 genomic contig HSCHR1_5_CTG32_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3145697627,
+    "length": 29999
+  },
+  {
+    "header": ">MU273334.1 Homo sapiens chromosome 1 genomic contig HG2571_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3145912596,
+    "length": 210426
+  },
+  {
+    "header": ">MU273332.1 Homo sapiens chromosome 1 genomic contig HSCHR1_6_CTG31, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3146125768,
+    "length": 335159
+  },
+  {
+    "header": ">ML143342.1 Homo sapiens chromosome 2 genomic contig HG1384_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3146465228,
+    "length": 84043
+  },
+  {
+    "header": ">MU273344.1 Homo sapiens chromosome 2 genomic contig HG2231_HG2496_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3146550440,
+    "length": 223345
+  },
+  {
+    "header": ">MU273345.1 Homo sapiens chromosome 2 genomic contig HG2140_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3146798336,
+    "length": 174385
+  },
+  {
+    "header": ">MU273343.1 Homo sapiens chromosome 2 genomic contig HG2052_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3146975012,
+    "length": 489404
+  },
+  {
+    "header": ">MU273340.1 Homo sapiens chromosome 2 genomic contig HSCHR2_6_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3147470648,
+    "length": 284971
+  },
+  {
+    "header": ">KQ031384.1 Homo sapiens chromosome 2 genomic contig HG2290_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3147759293,
+    "length": 65046
+  },
+  {
+    "header": ">MU273337.1 Homo sapiens chromosome 2 genomic contig HSCHR2_10_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3148246671,
+    "length": 431782
+  },
+  {
+    "header": ">MU273342.1 Homo sapiens chromosome 2 genomic contig HG2275_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3148683962,
+    "length": 187424
+  },
+  {
+    "header": ">KZ208907.1 Homo sapiens chromosome 2 genomic contig HSCHR2_7_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3149651104,
+    "length": 181658
+  },
+  {
+    "header": ">MU273339.1 Homo sapiens chromosome 2 genomic contig HSCHR2_12_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3149835150,
+    "length": 86079
+  },
+  {
+    "header": ">MU273338.1 Homo sapiens chromosome 2 genomic contig HSCHR2_11_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3150342106,
+    "length": 535251
+  },
+  {
+    "header": ">MU273341.1 Homo sapiens chromosome 2 genomic contig HG2494_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3150884159,
+    "length": 85651
+  },
+  {
+    "header": ">KQ983256.1 Homo sapiens chromosome 2 genomic contig HSCHR2_6_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3151006161,
+    "length": 535088
+  },
+  {
+    "header": ">KZ208908.1 Homo sapiens chromosome 2 genomic contig HSCHR2_8_CTG7_2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3151548054,
+    "length": 140361
+  },
+  {
+    "header": ">KN538363.1 Homo sapiens chromosome 2 genomic contig HG2232_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3151690281,
+    "length": 325112
+  },
+  {
+    "header": ">ML143341.1 Homo sapiens chromosome 2 genomic contig HG721_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3152060459,
+    "length": 145975
+  },
+  {
+    "header": ">KN538362.1 Homo sapiens chromosome 2 genomic contig HG2233_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3152208370,
+    "length": 208149
+  },
+  {
+    "header": ">KV766192.1 Homo sapiens chromosome 3 genomic contig HG2236_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3152419232,
+    "length": 411654
+  },
+  {
+    "header": ">MU273347.1 Homo sapiens chromosome 3 genomic contig HG2077_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3152836143,
+    "length": 229027
+  },
+  {
+    "header": ">MU273348.1 Homo sapiens chromosome 3 genomic contig HG2069_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3153141331,
+    "length": 475876
+  },
+  {
+    "header": ">KN196475.1 Homo sapiens chromosome 3 genomic contig HG2066_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3153623267,
+    "length": 451168
+  },
+  {
+    "header": ">KQ031385.1 Homo sapiens chromosome 3 genomic contig HG2235_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3154080186,
+    "length": 35973
+  },
+  {
+    "header": ">KN538364.1 Homo sapiens chromosome 3 genomic contig HG126_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3154458667,
+    "length": 415308
+  },
+  {
+    "header": ">ML143343.1 Homo sapiens chromosome 3 genomic contig HSCHR3_5_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3154879281,
+    "length": 215443
+  },
+  {
+    "header": ">KZ208909.1 Homo sapiens chromosome 3 genomic contig HSCHR3_4_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3155097532,
+    "length": 66817
+  },
+  {
+    "header": ">KQ031386.1 Homo sapiens chromosome 3 genomic contig HG2237_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3155275691,
+    "length": 165718
+  },
+  {
+    "header": ">KN196476.1 Homo sapiens chromosome 3 genomic contig HG2022_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3155443592,
+    "length": 305979
+  },
+  {
+    "header": ">KZ559104.1 Homo sapiens chromosome 3 genomic contig HG2133_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3155753507,
+    "length": 105527
+  },
+  {
+    "header": ">KZ559105.1 Homo sapiens chromosome 3 genomic contig HSCHR3_6_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3155860470,
+    "length": 195063
+  },
+  {
+    "header": ">KZ559103.1 Homo sapiens chromosome 3 genomic contig HSCHR3_9_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3156058088,
+    "length": 153751
+  },
+  {
+    "header": ">KZ559102.1 Homo sapiens chromosome 3 genomic contig HSCHR3_8_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3156364876,
+    "length": 197752
+  },
+  {
+    "header": ">KZ559101.1 Homo sapiens chromosome 3 genomic contig HSCHR3_7_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3156565216,
+    "length": 164041
+  },
+  {
+    "header": ">MU273346.1 Homo sapiens chromosome 3 genomic contig HG2264_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3156731419,
+    "length": 469342
+  },
+  {
+    "header": ">ML143344.1 Homo sapiens chromosome 4 genomic contig HG699_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3157206738,
+    "length": 54912
+  },
+  {
+    "header": ">ML143347.1 Homo sapiens chromosome 4 genomic contig HG1298_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3157445530,
+    "length": 176674
+  },
+  {
+    "header": ">KQ090013.1 Homo sapiens chromosome 4 genomic contig HSCHR4_2_CTG4, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3157624527,
+    "length": 90922
+  },
+  {
+    "header": ">MU273351.1 Homo sapiens chromosome 4 genomic contig HG287_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3157716696,
+    "length": 205691
+  },
+  {
+    "header": ">ML143346.1 Homo sapiens chromosome 4 genomic contig HG1299_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3157925070,
+    "length": 53476
+  },
+  {
+    "header": ">ML143348.1 Homo sapiens chromosome 4 genomic contig HG1296_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3157979326,
+    "length": 125549
+  },
+  {
+    "header": ">ML143345.1 Homo sapiens chromosome 4 genomic contig HG2525_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3158106556,
+    "length": 201834
+  },
+  {
+    "header": ">ML143349.1 Homo sapiens chromosome 4 genomic contig HG705_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3158451996,
+    "length": 276109
+  },
+  {
+    "header": ">KQ090014.1 Homo sapiens chromosome 4 genomic contig HSCHR4_8_CTG12, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3158731672,
+    "length": 163749
+  },
+  {
+    "header": ">KQ090015.1 Homo sapiens chromosome 4 genomic contig HSCHR4_9_CTG12, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3158897583,
+    "length": 236512
+  },
+  {
+    "header": ">MU273349.1 Homo sapiens chromosome 4 genomic contig HSCHR4_2_CTG8_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3159137168,
+    "length": 219576
+  },
+  {
+    "header": ">KV766193.1 Homo sapiens chromosome 4 genomic contig HSCHR4_12_CTG12, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3159449825,
+    "length": 420675
+  },
+  {
+    "header": ">MU273350.1 Homo sapiens chromosome 4 genomic contig HG2155_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3159875870,
+    "length": 113364
+  },
+  {
+    "header": ">KQ983258.1 Homo sapiens chromosome 4 genomic contig HSCHR4_11_CTG12, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3159990768,
+    "length": 205407
+  },
+  {
+    "header": ">KQ983257.1 Homo sapiens chromosome 4 genomic contig HG2023_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3160198854,
+    "length": 206628
+  },
+  {
+    "header": ">MU273354.1 Homo sapiens chromosome 5 genomic contig HG2405_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3160432280,
+    "length": 1011714
+  },
+  {
+    "header": ">KZ208910.1 Homo sapiens chromosome 5 genomic contig HSCHR5_9_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3162560249,
+    "length": 135987
+  },
+  {
+    "header": ">MU273353.1 Homo sapiens chromosome 5 genomic contig HG2476_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3162698047,
+    "length": 208405
+  },
+  {
+    "header": ">KN196477.1 Homo sapiens chromosome 5 genomic contig HSCHR5_7_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3162909172,
+    "length": 139087
+  },
+  {
+    "header": ">KV575243.1 Homo sapiens chromosome 5 genomic contig HSCHR5_8_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3163050112,
+    "length": 362221
+  },
+  {
+    "header": ">MU273356.1 Homo sapiens chromosome 5 genomic contig HSCHR5_10_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3163416976,
+    "length": 135127
+  },
+  {
+    "header": ">ML143350.1 Homo sapiens chromosome 5 genomic contig HG1395_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3163723354,
+    "length": 89956
+  },
+  {
+    "header": ">MU273355.1 Homo sapiens chromosome 5 genomic contig HG2308_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3163814546,
+    "length": 508332
+  },
+  {
+    "header": ">KV575244.1 Homo sapiens chromosome 5 genomic contig HG30_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3164329342,
+    "length": 269656
+  },
+  {
+    "header": ">MU273352.1 Homo sapiens chromosome 5 genomic contig HG1046_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3165010926,
+    "length": 34400
+  },
+  {
+    "header": ">KZ208911.1 Homo sapiens chromosome 6 genomic contig HG2057_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3165045867,
+    "length": 242796
+  },
+  {
+    "header": ">KQ090017.1 Homo sapiens chromosome 6 genomic contig HSCHR6_1_CTG10, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3165291813,
+    "length": 82315
+  },
+  {
+    "header": ">MU273357.1 Homo sapiens chromosome 6 genomic contig HSCHR6_1_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3165375271,
+    "length": 272270
+  },
+  {
+    "header": ">KQ031387.1 Homo sapiens chromosome 6 genomic contig HG1651_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3165763300,
+    "length": 320750
+  },
+  {
+    "header": ">KN196478.1 Homo sapiens chromosome 6 genomic contig HG2128_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3166088171,
+    "length": 268330
+  },
+  {
+    "header": ">KQ090016.1 Homo sapiens chromosome 6 genomic contig HG2072_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3166359967,
+    "length": 245716
+  },
+  {
+    "header": ">KV766194.1 Homo sapiens chromosome 6 genomic contig HG2121_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3166608866,
+    "length": 89535
+  },
+  {
+    "header": ">ML143351.1 Homo sapiens chromosome 6 genomic contig HG563_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3166750146,
+    "length": 73265
+  },
+  {
+    "header": ">ML143352.1 Homo sapiens chromosome 7 genomic contig HG1309_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3166824438,
+    "length": 254759
+  },
+  {
+    "header": ">KZ559106.1 Homo sapiens chromosome 7 genomic contig HSCHR7_3_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3167082496,
+    "length": 172555
+  },
+  {
+    "header": ">MU273358.1 Homo sapiens chromosome 7 genomic contig HSCHR7_4_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3167257322,
+    "length": 464417
+  },
+  {
+    "header": ">KV880764.1 Homo sapiens chromosome 7 genomic contig HG2088_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3167727656,
+    "length": 20188
+  },
+  {
+    "header": ">KV880765.1 Homo sapiens chromosome 7 genomic contig HG2266_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3167871673,
+    "length": 468267
+  },
+  {
+    "header": ">KZ208912.1 Homo sapiens chromosome 7 genomic contig HG708_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3168345904,
+    "length": 445203
+  },
+  {
+    "header": ">KZ208913.1 Homo sapiens chromosome 7 genomic contig HSCHR7_3_CTG4_4, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3168943047,
+    "length": 680662
+  },
+  {
+    "header": ">KQ031388.1 Homo sapiens chromosome 7 genomic contig HG2239_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3169632329,
+    "length": 179932
+  },
+  {
+    "header": ">MU273362.1 Homo sapiens chromosome 8 genomic contig HG2267_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3169814622,
+    "length": 30248
+  },
+  {
+    "header": ">KZ208915.1 Homo sapiens chromosome 8 genomic contig HG76_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3170249847,
+    "length": 636027
+  },
+  {
+    "header": ">KV880767.1 Homo sapiens chromosome 8 genomic contig HG2068_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3176697081,
+    "length": 265876
+  },
+  {
+    "header": ">MU273359.1 Homo sapiens chromosome 8 genomic contig HG2176_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3176966392,
+    "length": 150302
+  },
+  {
+    "header": ">KV880766.1 Homo sapiens chromosome 8 genomic contig HG2067_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3177118684,
+    "length": 65774
+  },
+  {
+    "header": ">MU273361.1 Homo sapiens chromosome 8 genomic contig HG2408_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3177277756,
+    "length": 106905
+  },
+  {
+    "header": ">KZ559107.1 Homo sapiens chromosome 8 genomic contig HSCHR8_7_CTG7, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3177386112,
+    "length": 103072
+  },
+  {
+    "header": ">MU273363.1 Homo sapiens chromosome 8 genomic contig HG2031_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3177490584,
+    "length": 207371
+  },
+  {
+    "header": ">KZ208914.1 Homo sapiens chromosome 8 genomic contig HG2419_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3177700659,
+    "length": 165120
+  },
+  {
+    "header": ">MU273360.1 Homo sapiens chromosome 8 genomic contig HG1047_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3177867954,
+    "length": 39290
+  },
+  {
+    "header": ">KQ090018.1 Homo sapiens chromosome 9 genomic contig HSCHR9_1_CTG6, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3177907850,
+    "length": 163882
+  },
+  {
+    "header": ">KQ090019.1 Homo sapiens chromosome 9 genomic contig HSCHR9_1_CTG7, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3178073895,
+    "length": 134099
+  },
+  {
+    "header": ">MU273366.1 Homo sapiens chromosome 9 genomic contig HG1206_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3178209782,
+    "length": 23777
+  },
+  {
+    "header": ">MU273364.1 Homo sapiens chromosome 9 genomic contig HG2158_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3178786682,
+    "length": 340717
+  },
+  {
+    "header": ">MU273365.1 Homo sapiens chromosome 9 genomic contig HG1012_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3179131769,
+    "length": 148803
+  },
+  {
+    "header": ">KN196479.1 Homo sapiens chromosome 9 genomic contig HG2030_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3179620159,
+    "length": 330164
+  },
+  {
+    "header": ">ML143353.1 Homo sapiens chromosome 9 genomic contig HG613_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3179954561,
+    "length": 25408
+  },
+  {
+    "header": ">ML143354.1 Homo sapiens chromosome 10 genomic contig HG545_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3179980398,
+    "length": 346282
+  },
+  {
+    "header": ">KN538367.1 Homo sapiens chromosome 10 genomic contig HG2244_HG2245_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3180441168,
+    "length": 420164
+  },
+  {
+    "header": ">ML143355.1 Homo sapiens chromosome 10 genomic contig HG1277_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3180866697,
+    "length": 292944
+  },
+  {
+    "header": ">KQ090020.1 Homo sapiens chromosome 10 genomic contig HSCHR10_1_CTG6, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3181163419,
+    "length": 185507
+  },
+  {
+    "header": ">KN196480.1 Homo sapiens chromosome 10 genomic contig HG2191_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3181351357,
+    "length": 27879
+  },
+  {
+    "header": ">KQ090021.1 Homo sapiens chromosome 10 genomic contig HG2334_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3181632739,
+    "length": 264545
+  },
+  {
+    "header": ">MU273367.1 Homo sapiens chromosome 10 genomic contig HG2576_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3181900703,
+    "length": 196262
+  },
+  {
+    "header": ">KN538366.1 Homo sapiens chromosome 10 genomic contig HG2242_HG2243_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3182099538,
+    "length": 85284
+  },
+  {
+    "header": ">KN538365.1 Homo sapiens chromosome 10 genomic contig HG2241_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3182186001,
+    "length": 14347
+  },
+  {
+    "header": ">KQ759759.2 Homo sapiens chromosome 11 genomic contig HG107_HG2565_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3182200646,
+    "length": 204999
+  },
+  {
+    "header": ">MU273369.1 Homo sapiens chromosome 11 genomic contig HG152_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3182408319,
+    "length": 19597
+  },
+  {
+    "header": ">ML143358.1 Homo sapiens chromosome 11 genomic contig HG28_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3182848696,
+    "length": 270122
+  },
+  {
+    "header": ">MU273371.1 Homo sapiens chromosome 11 genomic contig HG2578_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3183122307,
+    "length": 122722
+  },
+  {
+    "header": ">KN538368.1 Homo sapiens chromosome 11 genomic contig HSCHR11_1_CTG1_2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3183246682,
+    "length": 203552
+  },
+  {
+    "header": ">ML143360.1 Homo sapiens chromosome 11 genomic contig HG2111_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3183452891,
+    "length": 23551
+  },
+  {
+    "header": ">KZ559109.1 Homo sapiens chromosome 11 genomic contig HG2114_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3183626068,
+    "length": 279644
+  },
+  {
+    "header": ">KZ559108.1 Homo sapiens chromosome 11 genomic contig HG2060_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3183909320,
+    "length": 305244
+  },
+  {
+    "header": ">KV766195.1 Homo sapiens chromosome 11 genomic contig HG1708_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3184218492,
+    "length": 140877
+  },
+  {
+    "header": ">MU273370.1 Homo sapiens chromosome 11 genomic contig HG2568_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3184361242,
+    "length": 162045
+  },
+  {
+    "header": ">KZ559111.1 Homo sapiens chromosome 11 genomic contig HSCHR11_1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3184710274,
+    "length": 181167
+  },
+  {
+    "header": ">ML143359.1 Homo sapiens chromosome 11 genomic contig HG2115_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3184893818,
+    "length": 217075
+  },
+  {
+    "header": ">ML143357.1 Homo sapiens chromosome 11 genomic contig HG1445_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3185113719,
+    "length": 165419
+  },
+  {
+    "header": ">KZ559110.1 Homo sapiens chromosome 11 genomic contig HSCHR11_2_CTG8, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3185281322,
+    "length": 288955
+  },
+  {
+    "header": ">KQ090022.1 Homo sapiens chromosome 11 genomic contig HG2116_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3185586842,
+    "length": 181958
+  },
+  {
+    "header": ">ML143356.1 Homo sapiens chromosome 11 genomic contig HG1521_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3185771187,
+    "length": 45257
+  },
+  {
+    "header": ">MU273368.1 Homo sapiens chromosome 11 genomic contig HSCHR11_2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3185817128,
+    "length": 261194
+  },
+  {
+    "header": ">KN196481.1 Homo sapiens chromosome 11 genomic contig HG2217_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3186081699,
+    "length": 108875
+  },
+  {
+    "header": ">KQ090023.1 Homo sapiens chromosome 12 genomic contig HSCHR12_2_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3186192051,
+    "length": 109323
+  },
+  {
+    "header": ">KZ208916.1 Homo sapiens chromosome 12 genomic contig HG1815_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3186302853,
+    "length": 315666
+  },
+  {
+    "header": ">ML143362.1 Homo sapiens chromosome 12 genomic contig HG1398_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3187362889,
+    "length": 192531
+  },
+  {
+    "header": ">KN538369.1 Homo sapiens chromosome 12 genomic contig HG1362_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3187557939,
+    "length": 111705
+  },
+  {
+    "header": ">KN196482.1 Homo sapiens chromosome 12 genomic contig HG23_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3188105850,
+    "length": 211377
+  },
+  {
+    "header": ">MU273372.1 Homo sapiens chromosome 12 genomic contig HG2554_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3188319982,
+    "length": 104537
+  },
+  {
+    "header": ">KZ208918.1 Homo sapiens chromosome 12 genomic contig HSCHR12_8_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3188425944,
+    "length": 174808
+  },
+  {
+    "header": ">KQ759760.1 Homo sapiens chromosome 12 genomic contig HG2063_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3188603050,
+    "length": 115127
+  },
+  {
+    "header": ">KZ208917.1 Homo sapiens chromosome 12 genomic contig HG2047_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3188922718,
+    "length": 64689
+  },
+  {
+    "header": ">KN538370.1 Homo sapiens chromosome 12 genomic contig HG2247_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3188988328,
+    "length": 86533
+  },
+  {
+    "header": ">KZ559112.1 Homo sapiens chromosome 12 genomic contig HSCHR12_9_CTG2_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3189076061,
+    "length": 154139
+  },
+  {
+    "header": ">ML143361.1 Homo sapiens chromosome 12 genomic contig HG2246_HG2248_HG2276_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3189232253,
+    "length": 297568
+  },
+  {
+    "header": ">ML143366.1 Homo sapiens chromosome 13 genomic contig HG2509_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3189533653,
+    "length": 231644
+  },
+  {
+    "header": ">KN538372.1 Homo sapiens chromosome 13 genomic contig HG2291_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3189948801,
+    "length": 356766
+  },
+  {
+    "header": ">KQ090024.1 Homo sapiens chromosome 13 genomic contig HSCHR13_1_CTG7, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3190310143,
+    "length": 168146
+  },
+  {
+    "header": ">ML143363.1 Homo sapiens chromosome 13 genomic contig HG1817_1_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3190480505,
+    "length": 7309
+  },
+  {
+    "header": ">KN196483.1 Homo sapiens chromosome 13 genomic contig HG2216_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3190488018,
+    "length": 35455
+  },
+  {
+    "header": ">KN538373.1 Homo sapiens chromosome 13 genomic contig HG2249_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3190524029,
+    "length": 148762
+  },
+  {
+    "header": ">KQ090025.1 Homo sapiens chromosome 13 genomic contig HSCHR13_1_CTG8, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3190674767,
+    "length": 123480
+  },
+  {
+    "header": ">ML143364.1 Homo sapiens chromosome 13 genomic contig HG1523_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3190799903,
+    "length": 16657
+  },
+  {
+    "header": ">ML143365.1 Homo sapiens chromosome 13 genomic contig HG1524_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3190960946,
+    "length": 65394
+  },
+  {
+    "header": ">KN538371.1 Homo sapiens chromosome 13 genomic contig HG2288_HG2289_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3191027277,
+    "length": 206320
+  },
+  {
+    "header": ">ML143367.1 Homo sapiens chromosome 14 genomic contig HG2510_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3191236288,
+    "length": 399183
+  },
+  {
+    "header": ">MU273373.1 Homo sapiens chromosome 14 genomic contig HG2526_HG2573_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3191640580,
+    "length": 221990
+  },
+  {
+    "header": ">KZ208920.1 Homo sapiens chromosome 14 genomic contig HG1_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3192372368,
+    "length": 534867
+  },
+  {
+    "header": ">ML143368.1 Homo sapiens chromosome 14 genomic contig HSCHR14_9_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3193072053,
+    "length": 264228
+  },
+  {
+    "header": ">KZ208919.1 Homo sapiens chromosome 14 genomic contig HSCHR14_8_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3193339700,
+    "length": 171798
+  },
+  {
+    "header": ">KN538374.1 Homo sapiens chromosome 15 genomic contig HG2139_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3193513758,
+    "length": 443199
+  },
+  {
+    "header": ">ML143372.1 Homo sapiens chromosome 15 genomic contig HG2511_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3198575320,
+    "length": 396515
+  },
+  {
+    "header": ">ML143371.1 Homo sapiens chromosome 15 genomic contig HG2365_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3198976904,
+    "length": 225652
+  },
+  {
+    "header": ">KQ031389.1 Homo sapiens chromosome 15 genomic contig HSCHR15_6_CTG8, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3204546225,
+    "length": 938872
+  },
+  {
+    "header": ">MU273375.1 Homo sapiens chromosome 15 genomic contig HSCHR15_9_CTG8, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3206941273,
+    "length": 204007
+  },
+  {
+    "header": ">ML143370.1 Homo sapiens chromosome 15 genomic contig HG2198_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3207147943,
+    "length": 369264
+  },
+  {
+    "header": ">MU273374.1 Homo sapiens chromosome 15 genomic contig HG2280_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3207521935,
+    "length": 71160
+  },
+  {
+    "header": ">ML143369.1 Homo sapiens chromosome 15 genomic contig HG2499_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3208691054,
+    "length": 97763
+  },
+  {
+    "header": ">MU273376.1 Homo sapiens chromosome 16 genomic contig HG401_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3208790151,
+    "length": 87715
+  },
+  {
+    "header": ">KQ090026.1 Homo sapiens chromosome 16 genomic contig HSCHR16_5_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3208879079,
+    "length": 59016
+  },
+  {
+    "header": ">KZ559113.1 Homo sapiens chromosome 16 genomic contig HG2263_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3208938945,
+    "length": 480415
+  },
+  {
+    "header": ">KV880768.1 Homo sapiens chromosome 16 genomic contig HG926_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3209425477,
+    "length": 262380
+  },
+  {
+    "header": ">ML143373.1 Homo sapiens chromosome 16 genomic contig HG2471_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3211376793,
+    "length": 270967
+  },
+  {
+    "header": ">KQ090027.1 Homo sapiens chromosome 16 genomic contig HSCHR16_4_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3211651266,
+    "length": 135331
+  },
+  {
+    "header": ">KZ208921.1 Homo sapiens chromosome 16 genomic contig HSCHR16_5_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3211922191,
+    "length": 78609
+  },
+  {
+    "header": ">KQ031390.1 Homo sapiens chromosome 16 genomic contig HSCHR16_3_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3212001901,
+    "length": 169136
+  },
+  {
+    "header": ">MU273377.1 Homo sapiens chromosome 16 genomic contig HG405_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3212173263,
+    "length": 334997
+  },
+  {
+    "header": ">KV766196.1 Homo sapiens chromosome 17 genomic contig HG2285_HG106_HG2252_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3212512573,
+    "length": 281919
+  },
+  {
+    "header": ">ML143374.1 Homo sapiens chromosome 17 genomic contig HG2087_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3212798128,
+    "length": 38258
+  },
+  {
+    "header": ">KV575245.1 Homo sapiens chromosome 17 genomic contig HG2046_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3212937872,
+    "length": 154723
+  },
+  {
+    "header": ">KV766198.1 Homo sapiens chromosome 17 genomic contig HSCHR17_3_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3213094646,
+    "length": 276292
+  },
+  {
+    "header": ">MU273380.1 Homo sapiens chromosome 17 genomic contig HG2407_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3213374504,
+    "length": 504629
+  },
+  {
+    "header": ">MU273378.1 Homo sapiens chromosome 17 genomic contig HSCHR17_13_CTG4, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3213919894,
+    "length": 372839
+  },
+  {
+    "header": ">KV766197.1 Homo sapiens chromosome 17 genomic contig HSCHR17_11_CTG4, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3214297511,
+    "length": 246895
+  },
+  {
+    "header": ">KZ559114.1 Homo sapiens chromosome 17 genomic contig HSCHR17_12_CTG4, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3214547610,
+    "length": 116753
+  },
+  {
+    "header": ">MU273383.1 Homo sapiens chromosome 17 genomic contig HG2580_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3214665935,
+    "length": 172609
+  },
+  {
+    "header": ">MU273379.1 Homo sapiens chromosome 17 genomic contig HG2118_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3214840814,
+    "length": 92052
+  },
+  {
+    "header": ">MU273382.1 Homo sapiens chromosome 17 genomic contig HG1369_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3215078740,
+    "length": 187626
+  },
+  {
+    "header": ">ML143375.1 Homo sapiens chromosome 17 genomic contig HG1320_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3215268824,
+    "length": 56695
+  },
+  {
+    "header": ">MU273381.1 Homo sapiens chromosome 17 genomic contig HG2251_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3215326340,
+    "length": 144689
+  },
+  {
+    "header": ">KZ559116.1 Homo sapiens chromosome 18 genomic contig HSCHR18_1_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3215472954,
+    "length": 163186
+  },
+  {
+    "header": ">KQ458385.1 Homo sapiens chromosome 18 genomic contig HSCHR18_5_CTG1_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3215638298,
+    "length": 205101
+  },
+  {
+    "header": ">KZ559115.1 Homo sapiens chromosome 18 genomic contig HG2412_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3215846075,
+    "length": 134832
+  },
+  {
+    "header": ">KQ090028.1 Homo sapiens chromosome 18 genomic contig HG2213_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3216079916,
+    "length": 407387
+  },
+  {
+    "header": ">KZ208922.1 Homo sapiens chromosome 18 genomic contig HG2442_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3216492508,
+    "length": 93070
+  },
+  {
+    "header": ">MU273386.1 Homo sapiens chromosome 19 genomic contig HG2469_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3216586854,
+    "length": 226166
+  },
+  {
+    "header": ">MU273387.1 Homo sapiens chromosome 19 genomic contig HSCHR19_6_CTG2, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3216815964,
+    "length": 89211
+  },
+  {
+    "header": ">MU273384.1 Homo sapiens chromosome 19 genomic contig HG2461_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3216906403,
+    "length": 123225
+  },
+  {
+    "header": ">ML143376.1 Homo sapiens chromosome 19 genomic contig HG109_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3217244440,
+    "length": 493165
+  },
+  {
+    "header": ">KQ458386.1 Homo sapiens chromosome 19 genomic contig HG26_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3217743880,
+    "length": 331718
+  },
+  {
+    "header": ">MU273385.1 Homo sapiens chromosome 19 genomic contig HG2569_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3218154449,
+    "length": 137818
+  },
+  {
+    "header": ">KN196484.1 Homo sapiens chromosome 19 genomic contig HG2021_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3218294102,
+    "length": 370917
+  },
+  {
+    "header": ">KV575246.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_0019-4656-A_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3218669787,
+    "length": 163926
+  },
+  {
+    "header": ">KV575247.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TA01_1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3218835894,
+    "length": 170206
+  },
+  {
+    "header": ">KV575248.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TA01_2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3219008359,
+    "length": 118481
+  },
+  {
+    "header": ">KV575249.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TB04_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3219178721,
+    "length": 293522
+  },
+  {
+    "header": ">KV575250.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA01-TB01_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3219476042,
+    "length": 241058
+  },
+  {
+    "header": ">KV575251.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_HG2394_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3219720240,
+    "length": 159285
+  },
+  {
+    "header": ">KV575252.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_502960008-2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3219881648,
+    "length": 178197
+  },
+  {
+    "header": ">KV575253.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_502960008-1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3220062204,
+    "length": 113277
+  },
+  {
+    "header": ">KV575254.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_0010-5217-AB_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3220231133,
+    "length": 99845
+  },
+  {
+    "header": ">KV575255.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_7191059-1_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3220332356,
+    "length": 161095
+  },
+  {
+    "header": ">KV575256.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_0019-4656-B_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3220495596,
+    "length": 223118
+  },
+  {
+    "header": ">KV575257.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_CA04_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3220721627,
+    "length": 100553
+  },
+  {
+    "header": ">KV575259.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_7191059-2_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3220823566,
+    "length": 171263
+  },
+  {
+    "header": ">KV575260.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_HG2396_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3220997096,
+    "length": 145691
+  },
+  {
+    "header": ">KV575258.1 Homo sapiens chromosome 19 genomic contig HSCHR19KIR_HG2393_CTG3_1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3221144735,
+    "length": 79741
+  },
+  {
+    "header": ">MU273388.1 Homo sapiens chromosome 20 genomic contig HG2225_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3221303775,
+    "length": 273725
+  },
+  {
+    "header": ">MU273389.1 Homo sapiens chromosome 20 genomic contig HG410_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3221581033,
+    "length": 355731
+  },
+  {
+    "header": ">ML143377.1 Homo sapiens chromosome 21 genomic contig HG2513_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3221941323,
+    "length": 328618
+  },
+  {
+    "header": ">MU273390.1 Homo sapiens chromosome 21 genomic contig HG2219_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3222467414,
+    "length": 336752
+  },
+  {
+    "header": ">MU273391.1 Homo sapiens chromosome 21 genomic contig HG2265_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3222808488,
+    "length": 507789
+  },
+  {
+    "header": ">MU273392.1 Homo sapiens chromosome 21 genomic contig HG2521_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3223842138,
+    "length": 189707
+  },
+  {
+    "header": ">ML143380.1 Homo sapiens chromosome 22 genomic contig HG2512_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3224034329,
+    "length": 332713
+  },
+  {
+    "header": ">ML143378.1 Homo sapiens chromosome 22 genomic contig HG1485_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3224451964,
+    "length": 461303
+  },
+  {
+    "header": ">KN196485.1 Homo sapiens chromosome 22 genomic contig HSCHR22_4_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3224919150,
+    "length": 156562
+  },
+  {
+    "header": ">KQ458387.1 Homo sapiens chromosome 22 genomic contig HSCHR22_6_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3225077786,
+    "length": 155930
+  },
+  {
+    "header": ">KQ458388.1 Homo sapiens chromosome 22 genomic contig HSCHR22_7_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3225235782,
+    "length": 174749
+  },
+  {
+    "header": ">KN196486.1 Homo sapiens chromosome 22 genomic contig HSCHR22_5_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3225412832,
+    "length": 6859
+  },
+  {
+    "header": ">KQ759761.1 Homo sapiens chromosome 22 genomic contig HSCHR22_8_CTG1, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3225567888,
+    "length": 145162
+  },
+  {
+    "header": ">ML143379.1 Homo sapiens chromosome 22 genomic contig HG494_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3225714976,
+    "length": 12295
+  },
+  {
+    "header": ">KQ759762.2 Homo sapiens chromosome 22 genomic contig HG1311_HG2539_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3225727544,
+    "length": 101040
+  },
+  {
+    "header": ">KV766199.1 Homo sapiens chromosome X genomic contig HSCHRX_3_CTG7, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3225829961,
+    "length": 188004
+  },
+  {
+    "header": ">ML143385.1 Homo sapiens chromosome X genomic contig HG1466_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3226020427,
+    "length": 17435
+  },
+  {
+    "header": ">MU273397.1 Homo sapiens chromosome X genomic contig HSCHRX_3_CTG3, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3226038194,
+    "length": 330493
+  },
+  {
+    "header": ">ML143382.1 Homo sapiens chromosome X genomic contig HG1506_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3226372930,
+    "length": 28824
+  },
+  {
+    "header": ">MU273393.1 Homo sapiens chromosome X genomic contig HG2527_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3226402226,
+    "length": 65310
+  },
+  {
+    "header": ">ML143383.1 Homo sapiens chromosome X genomic contig HG1507_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3226472008,
+    "length": 68192
+  },
+  {
+    "header": ">MU273394.1 Homo sapiens chromosome X genomic contig HG2541_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3226541164,
+    "length": 140567
+  },
+  {
+    "header": ">ML143381.1 Homo sapiens chromosome X genomic contig HG439_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3226683599,
+    "length": 403128
+  },
+  {
+    "header": ">MU273396.1 Homo sapiens chromosome X genomic contig HSCHRX_2_CTG14, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3227091882,
+    "length": 294119
+  },
+  {
+    "header": ">ML143384.1 Homo sapiens chromosome X genomic contig HG1509_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3227389789,
+    "length": 14678
+  },
+  {
+    "header": ">MU273395.1 Homo sapiens chromosome X genomic contig HSCHRX_1_CTG14, GRC reference assembly NOVEL PATCH for GRCh38",
+    "position": 3227404766,
+    "length": 110778
+  },
+  {
+    "header": ">KZ208923.1 Homo sapiens chromosome Y genomic contig HG1531_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3228032340,
+    "length": 48370
+  },
+  {
+    "header": ">MU273398.1 Homo sapiens chromosome Y genomic contig HG1532_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3228081426,
+    "length": 478102
+  },
+  {
+    "header": ">KZ208924.1 Homo sapiens chromosome Y genomic contig HG1535_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3228958102,
+    "length": 209722
+  },
+  {
+    "header": ">KN196487.1 Homo sapiens chromosome Y genomic contig HG2062_PATCH, GRC reference assembly FIX PATCH for GRCh38",
+    "position": 3229170557,
+    "length": 101150
+  },
+  {
+    "header": ">KI270762.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3229273089,
+    "length": 336782
+  },
+  {
+    "header": ">KI270766.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3229632081,
+    "length": 256271
+  },
+  {
+    "header": ">KI270760.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3229891673,
+    "length": 109528
+  },
+  {
+    "header": ">KI270765.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3230002688,
+    "length": 185285
+  },
+  {
+    "header": ">GL383518.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3230190407,
+    "length": 182439
+  },
+  {
+    "header": ">GL383519.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3230375244,
+    "length": 110268
+  },
+  {
+    "header": ">GL383520.2 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3230487008,
+    "length": 173480
+  },
+  {
+    "header": ">KI270764.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3230858288,
+    "length": 50258
+  },
+  {
+    "header": ">KI270763.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3230909292,
+    "length": 792040
+  },
+  {
+    "header": ">KI270759.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3231832463,
+    "length": 425601
+  },
+  {
+    "header": ">KI270761.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3232263502,
+    "length": 165834
+  },
+  {
+    "header": ">KI270770.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3232431526,
+    "length": 136240
+  },
+  {
+    "header": ">KI270773.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3232569586,
+    "length": 70887
+  },
+  {
+    "header": ">KI270774.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3232641477,
+    "length": 116871
+  },
+  {
+    "header": ">KI270769.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3232868015,
+    "length": 120616
+  },
+  {
+    "header": ">GL383521.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3232990256,
+    "length": 143390
+  },
+  {
+    "header": ">KI270772.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3233135556,
+    "length": 133041
+  },
+  {
+    "header": ">KI270775.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3233270378,
+    "length": 138019
+  },
+  {
+    "header": ">KI270771.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3233410240,
+    "length": 110395
+  },
+  {
+    "header": ">KI270768.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3233522132,
+    "length": 110099
+  },
+  {
+    "header": ">GL582966.2 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3233633725,
+    "length": 96131
+  },
+  {
+    "header": ">GL383522.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3233731175,
+    "length": 76256
+  },
+  {
+    "header": ">KI270776.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3233856661,
+    "length": 174166
+  },
+  {
+    "header": ">KI270767.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3234033122,
+    "length": 161578
+  },
+  {
+    "header": ">JH636055.2 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3234196837,
+    "length": 173151
+  },
+  {
+    "header": ">KI270783.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3234372270,
+    "length": 109187
+  },
+  {
+    "header": ">KI270780.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3234482939,
+    "length": 224108
+  },
+  {
+    "header": ">GL383526.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3234709966,
+    "length": 145180
+  },
+  {
+    "header": ">KI270777.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3234893013,
+    "length": 173649
+  },
+  {
+    "header": ">KI270778.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3235068950,
+    "length": 248252
+  },
+  {
+    "header": ">KI270781.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3235320423,
+    "length": 113034
+  },
+  {
+    "header": ">KI270779.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3235434987,
+    "length": 205312
+  },
+  {
+    "header": ">KI270782.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3235642983,
+    "length": 162429
+  },
+  {
+    "header": ">KI270784.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3235807560,
+    "length": 96767
+  },
+  {
+    "header": ">KI270790.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3235994387,
+    "length": 220246
+  },
+  {
+    "header": ">GL383528.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3236217504,
+    "length": 376187
+  },
+  {
+    "header": ">KI270787.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3236598511,
+    "length": 111943
+  },
+  {
+    "header": ">GL000257.2 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3236711971,
+    "length": 239152
+  },
+  {
+    "header": ">KI270788.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3237305895,
+    "length": 158965
+  },
+  {
+    "header": ">GL383527.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3237466965,
+    "length": 164536
+  },
+  {
+    "header": ">KI270785.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3237633675,
+    "length": 119912
+  },
+  {
+    "header": ">KI270789.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3237755203,
+    "length": 205944
+  },
+  {
+    "header": ">KI270786.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3237963839,
+    "length": 38370
+  },
+  {
+    "header": ">KI270793.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3238211104,
+    "length": 126136
+  },
+  {
+    "header": ">KI270792.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3238338934,
+    "length": 179043
+  },
+  {
+    "header": ">KI270791.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3238520333,
+    "length": 195710
+  },
+  {
+    "header": ">GL383532.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3238718607,
+    "length": 82728
+  },
+  {
+    "header": ">GL949742.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3238802487,
+    "length": 226852
+  },
+  {
+    "header": ">KI270794.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3239032292,
+    "length": 18738
+  },
+  {
+    "header": ">GL339449.2 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3239199024,
+    "length": 889695
+  },
+  {
+    "header": ">GL383530.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3240832231,
+    "length": 101241
+  },
+  {
+    "header": ">KI270796.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3240934855,
+    "length": 172708
+  },
+  {
+    "header": ">GL383531.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3241109839,
+    "length": 38101
+  },
+  {
+    "header": ">KI270795.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3241285584,
+    "length": 131892
+  },
+  {
+    "header": ">GL000250.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3241419242,
+    "length": 768149
+  },
+  {
+    "header": ">KI270800.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3246150138,
+    "length": 175808
+  },
+  {
+    "header": ">KI270799.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3246328261,
+    "length": 62257
+  },
+  {
+    "header": ">GL383533.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3246482428,
+    "length": 124736
+  },
+  {
+    "header": ">KI270801.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3246608841,
+    "length": 820772
+  },
+  {
+    "header": ">KI270802.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3247490319,
+    "length": 75005
+  },
+  {
+    "header": ">KB021644.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3247566379,
+    "length": 185823
+  },
+  {
+    "header": ">KI270797.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3247754642,
+    "length": 197536
+  },
+  {
+    "header": ">KI270798.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3247954765,
+    "length": 271782
+  },
+  {
+    "header": ">KI270804.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3248230062,
+    "length": 157952
+  },
+  {
+    "header": ">KI270809.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3248390106,
+    "length": 97128
+  },
+  {
+    "header": ">KI270806.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3248602429,
+    "length": 158166
+  },
+  {
+    "header": ">GL383534.2 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3248762690,
+    "length": 119183
+  },
+  {
+    "header": ">KI270803.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3248883480,
+    "length": 645476
+  },
+  {
+    "header": ">KI270808.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3250009062,
+    "length": 271455
+  },
+  {
+    "header": ">KI270807.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3250284028,
+    "length": 126434
+  },
+  {
+    "header": ">KI270805.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3250412160,
+    "length": 171299
+  },
+  {
+    "header": ">KI270818.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3250624890,
+    "length": 145606
+  },
+  {
+    "header": ">KI270812.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3250772434,
+    "length": 282736
+  },
+  {
+    "header": ">KI270811.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3251058822,
+    "length": 292436
+  },
+  {
+    "header": ">KI270821.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3251355031,
+    "length": 275699
+  },
+  {
+    "header": ">KI270813.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3252352973,
+    "length": 300230
+  },
+  {
+    "header": ">KI270822.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3252657073,
+    "length": 25362
+  },
+  {
+    "header": ">KI270814.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3253289489,
+    "length": 141812
+  },
+  {
+    "header": ">KI270810.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3253433191,
+    "length": 294457
+  },
+  {
+    "header": ">KI270819.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3253812404,
+    "length": 133535
+  },
+  {
+    "header": ">KI270820.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3253947726,
+    "length": 36640
+  },
+  {
+    "header": ">KI270817.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3253984941,
+    "length": 158983
+  },
+  {
+    "header": ">KI270816.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3254146029,
+    "length": 305841
+  },
+  {
+    "header": ">KI270815.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3254455811,
+    "length": 132244
+  },
+  {
+    "header": ">GL383539.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3254589826,
+    "length": 162988
+  },
+  {
+    "header": ">GL383540.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3254754969,
+    "length": 24628
+  },
+  {
+    "header": ">GL383541.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3254827532,
+    "length": 171286
+  },
+  {
+    "header": ">GL383542.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3255001077,
+    "length": 60032
+  },
+  {
+    "header": ">KI270823.1 Homo sapiens chromosome 9 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3255061977,
+    "length": 439082
+  },
+  {
+    "header": ">GL383545.1 Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3255506666,
+    "length": 179254
+  },
+  {
+    "header": ">KI270824.1 Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3255688279,
+    "length": 138471
+  },
+  {
+    "header": ">GL383546.1 Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3255872162,
+    "length": 309802
+  },
+  {
+    "header": ">KI270825.1 UNVERIFIED_ORG: Homo sapiens chromosome 10 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3256185971,
+    "length": 188315
+  },
+  {
+    "header": ">KI270832.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3256376758,
+    "length": 210133
+  },
+  {
+    "header": ">KI270830.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3256589636,
+    "length": 177092
+  },
+  {
+    "header": ">KI270831.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3256769060,
+    "length": 106663
+  },
+  {
+    "header": ">KI270829.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3257069785,
+    "length": 204059
+  },
+  {
+    "header": ">GL383547.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3257276513,
+    "length": 154407
+  },
+  {
+    "header": ">JH159136.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3257432969,
+    "length": 200998
+  },
+  {
+    "header": ">JH159137.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3257636598,
+    "length": 191409
+  },
+  {
+    "header": ">KI270827.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3257830518,
+    "length": 67707
+  },
+  {
+    "header": ">KI270826.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3257899190,
+    "length": 26116
+  },
+  {
+    "header": ">GL877875.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3258087805,
+    "length": 167313
+  },
+  {
+    "header": ">GL877876.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3258257328,
+    "length": 408271
+  },
+  {
+    "header": ">KI270837.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3258670821,
+    "length": 40090
+  },
+  {
+    "header": ">GL383549.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3258711531,
+    "length": 120804
+  },
+  {
+    "header": ">KI270835.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3258833964,
+    "length": 138513
+  },
+  {
+    "header": ">GL383550.2 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259075198,
+    "length": 169178
+  },
+  {
+    "header": ">GL383552.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259246609,
+    "length": 138655
+  },
+  {
+    "header": ">GL383553.2 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259387116,
+    "length": 152874
+  },
+  {
+    "header": ">KI270834.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259542019,
+    "length": 119498
+  },
+  {
+    "header": ">GL383551.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259663129,
+    "length": 184319
+  },
+  {
+    "header": ">KI270833.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259849870,
+    "length": 76061
+  },
+  {
+    "header": ">KI270836.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259927000,
+    "length": 56134
+  },
+  {
+    "header": ">KI270840.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3259983954,
+    "length": 38351
+  },
+  {
+    "header": ">KI270839.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3260178153,
+    "length": 180306
+  },
+  {
+    "header": ">KI270843.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3260360831,
+    "length": 103832
+  },
+  {
+    "header": ">KI270841.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3260466079,
+    "length": 169134
+  },
+  {
+    "header": ">KI270838.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3260637446,
+    "length": 306913
+  },
+  {
+    "header": ">KI270842.1 Homo sapiens chromosome 13 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3260948314,
+    "length": 37287
+  },
+  {
+    "header": ">KI270844.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3260986186,
+    "length": 84123
+  },
+  {
+    "header": ">KI270847.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3261312498,
+    "length": 797470
+  },
+  {
+    "header": ">KI270845.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3262842616,
+    "length": 180703
+  },
+  {
+    "header": ">KI270846.1 Homo sapiens chromosome 14 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3263025696,
+    "length": 141053
+  },
+  {
+    "header": ">KI270852.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3264394100,
+    "length": 478999
+  },
+  {
+    "header": ">KI270851.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3264879205,
+    "length": 263054
+  },
+  {
+    "header": ">KI270848.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3265145666,
+    "length": 118517
+  },
+  {
+    "header": ">GL383554.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3265477259,
+    "length": 296527
+  },
+  {
+    "header": ">KI270849.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3265777611,
+    "length": 244917
+  },
+  {
+    "header": ">GL383555.2 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3266025708,
+    "length": 284970
+  },
+  {
+    "header": ">KI270850.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3266419459,
+    "length": 430880
+  },
+  {
+    "header": ">KI270854.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3266855843,
+    "length": 134193
+  },
+  {
+    "header": ">KI270856.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3266991832,
+    "length": 63982
+  },
+  {
+    "header": ">KI270855.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3267056732,
+    "length": 232857
+  },
+  {
+    "header": ">KI270853.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3267292618,
+    "length": 69332
+  },
+  {
+    "header": ">GL383556.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3269985683,
+    "length": 192462
+  },
+  {
+    "header": ">GL383557.1 Homo sapiens chromosome 16 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3270180669,
+    "length": 89672
+  },
+  {
+    "header": ">GL383563.3 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3270271580,
+    "length": 234039
+  },
+  {
+    "header": ">KI270862.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3270652086,
+    "length": 391357
+  },
+  {
+    "header": ">KI270861.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3271048453,
+    "length": 196688
+  },
+  {
+    "header": ">KI270857.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3271247718,
+    "length": 305583
+  },
+  {
+    "header": ">JH159146.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3274160874,
+    "length": 278131
+  },
+  {
+    "header": ">JH159147.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3274442600,
+    "length": 70345
+  },
+  {
+    "header": ">GL383564.2 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3274513943,
+    "length": 133151
+  },
+  {
+    "header": ">GL000258.2 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3274648877,
+    "length": 53305
+  },
+  {
+    "header": ">GL383565.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3276493762,
+    "length": 223995
+  },
+  {
+    "header": ">KI270858.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3276720675,
+    "length": 78346
+  },
+  {
+    "header": ">KI270859.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3276959568,
+    "length": 108763
+  },
+  {
+    "header": ">GL383566.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3277069809,
+    "length": 90219
+  },
+  {
+    "header": ">KI270860.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3277161274,
+    "length": 178921
+  },
+  {
+    "header": ">KI270864.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3277342550,
+    "length": 111737
+  },
+  {
+    "header": ">GL383567.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3277455802,
+    "length": 289831
+  },
+  {
+    "header": ">GL383570.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3277749374,
+    "length": 97978
+  },
+  {
+    "header": ">GL383571.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3277916341,
+    "length": 198278
+  },
+  {
+    "header": ">GL383568.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3278117216,
+    "length": 104552
+  },
+  {
+    "header": ">GL383569.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3278223193,
+    "length": 167950
+  },
+  {
+    "header": ">GL383572.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3278393361,
+    "length": 159547
+  },
+  {
+    "header": ">KI270863.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3278555021,
+    "length": 167999
+  },
+  {
+    "header": ">KI270868.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3278725238,
+    "length": 61734
+  },
+  {
+    "header": ">KI270865.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3278787862,
+    "length": 52969
+  },
+  {
+    "header": ">GL383573.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3278841612,
+    "length": 54855
+  },
+  {
+    "header": ">GL383575.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3279232208,
+    "length": 170222
+  },
+  {
+    "header": ">GL383576.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3279404676,
+    "length": 188024
+  },
+  {
+    "header": ">GL383574.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3279595169,
+    "length": 155864
+  },
+  {
+    "header": ">KI270866.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3279753100,
+    "length": 43156
+  },
+  {
+    "header": ">KI270867.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3279796914,
+    "length": 146977
+  },
+  {
+    "header": ">GL949746.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3280033717,
+    "length": 948728
+  },
+  {
+    "header": ">GL383577.2 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281033898,
+    "length": 128386
+  },
+  {
+    "header": ">KI270869.1 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281164007,
+    "length": 118774
+  },
+  {
+    "header": ">KI270871.1 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281284384,
+    "length": 58661
+  },
+  {
+    "header": ">KI270870.1 Homo sapiens chromosome 20 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281343897,
+    "length": 183433
+  },
+  {
+    "header": ">GL383578.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281529741,
+    "length": 63917
+  },
+  {
+    "header": ">KI270874.1 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281594575,
+    "length": 166743
+  },
+  {
+    "header": ">KI270873.1 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281763521,
+    "length": 143900
+  },
+  {
+    "header": ">GL383579.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3281909338,
+    "length": 131894
+  },
+  {
+    "header": ">GL383580.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3282113168,
+    "length": 74653
+  },
+  {
+    "header": ">GL383581.2 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3282188873,
+    "length": 116689
+  },
+  {
+    "header": ">KI270872.1 Homo sapiens chromosome 21 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3282307139,
+    "length": 82692
+  },
+  {
+    "header": ">KI270875.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3282390983,
+    "length": 259914
+  },
+  {
+    "header": ">KI270878.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3282654264,
+    "length": 186262
+  },
+  {
+    "header": ">KI270879.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3282842973,
+    "length": 245416
+  },
+  {
+    "header": ">KI270876.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3283151028,
+    "length": 263666
+  },
+  {
+    "header": ">KI270877.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3283418108,
+    "length": 101331
+  },
+  {
+    "header": ">GL383583.2 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3283520824,
+    "length": 96924
+  },
+  {
+    "header": ">GL383582.2 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3283619078,
+    "length": 162811
+  },
+  {
+    "header": ">KI270880.1 Homo sapiens chromosome X genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3283784042,
+    "length": 284869
+  },
+  {
+    "header": ">KI270881.1 Homo sapiens chromosome X genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_1",
+    "position": 3284072589,
+    "length": 66611
+  },
+  {
+    "header": ">KI270892.1 Homo sapiens chromosome 1 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3284218715,
+    "length": 162212
+  },
+  {
+    "header": ">KI270894.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3284383072,
+    "length": 214158
+  },
+  {
+    "header": ">KI270893.1 Homo sapiens chromosome 2 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3284600024,
+    "length": 161218
+  },
+  {
+    "header": ">KI270895.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3284763375,
+    "length": 162896
+  },
+  {
+    "header": ">KI270896.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3284928425,
+    "length": 256971
+  },
+  {
+    "header": ">KI270897.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3285311821,
+    "length": 913939
+  },
+  {
+    "header": ">KI270898.1 Homo sapiens chromosome 5 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3286470662,
+    "length": 130957
+  },
+  {
+    "header": ">GL000251.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3286603373,
+    "length": 673963
+  },
+  {
+    "header": ">KI270899.1 Homo sapiens chromosome 7 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3291458696,
+    "length": 21105
+  },
+  {
+    "header": ">KI270901.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3291652068,
+    "length": 136959
+  },
+  {
+    "header": ">KI270900.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3291790856,
+    "length": 318687
+  },
+  {
+    "header": ">KI270902.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3292113645,
+    "length": 106711
+  },
+  {
+    "header": ">KI270903.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3292221808,
+    "length": 214625
+  },
+  {
+    "header": ">KI270904.1 Homo sapiens chromosome 12 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3292439234,
+    "length": 88303
+  },
+  {
+    "header": ">KI270906.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3293018856,
+    "length": 196384
+  },
+  {
+    "header": ">KI270905.1 Homo sapiens chromosome 15 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3293217813,
+    "length": 354966
+  },
+  {
+    "header": ">KI270907.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3298443863,
+    "length": 137721
+  },
+  {
+    "header": ">KI270910.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3298583424,
+    "length": 157099
+  },
+  {
+    "header": ">KI270909.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3298742605,
+    "length": 76535
+  },
+  {
+    "header": ">JH159148.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3299072596,
+    "length": 88070
+  },
+  {
+    "header": ">KI270908.1 Homo sapiens chromosome 17 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3299161885,
+    "length": 698062
+  },
+  {
+    "header": ">KI270912.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3300602983,
+    "length": 174061
+  },
+  {
+    "header": ">KI270911.1 Homo sapiens chromosome 18 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3300779338,
+    "length": 136208
+  },
+  {
+    "header": ">GL949747.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3300939138,
+    "length": 729520
+  },
+  {
+    "header": ">KB663609.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3301677895,
+    "length": 74013
+  },
+  {
+    "header": ">KI270913.1 Homo sapiens chromosome X genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_2",
+    "position": 3301752951,
+    "length": 210245
+  },
+  {
+    "header": ">KI270924.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3",
+    "position": 3302030503,
+    "length": 166540
+  },
+  {
+    "header": ">KI270925.1 Homo sapiens chromosome 4 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3",
+    "position": 3302199242,
+    "length": 555799
+  },
+  {
+    "header": ">GL000252.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3",
+    "position": 3302762106,
+    "length": 249180
+  },
+  {
+    "header": ">KI270926.1 Homo sapiens chromosome 8 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3",
+    "position": 3307424595,
+    "length": 229282
+  },
+  {
+    "header": ">KI270927.1 Homo sapiens chromosome 11 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3",
+    "position": 3307656862,
+    "length": 218612
+  },
+  {
+    "header": ">GL949748.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3",
+    "position": 3307878325,
+    "length": 374277
+  },
+  {
+    "header": ">KI270928.1 Homo sapiens chromosome 22 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_3",
+    "position": 3308956051,
+    "length": 176103
+  },
+  {
+    "header": ">KI270934.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_4",
+    "position": 3309134473,
+    "length": 163458
+  },
+  {
+    "header": ">GL000253.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_4",
+    "position": 3309300092,
+    "length": 5693
+  },
+  {
+    "header": ">GL949749.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_4",
+    "position": 3314036324,
+    "length": 506086
+  },
+  {
+    "header": ">KI270935.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_5",
+    "position": 3315141931,
+    "length": 197351
+  },
+  {
+    "header": ">GL000254.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_5",
+    "position": 3315341866,
+    "length": 252293
+  },
+  {
+    "header": ">GL949750.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_5",
+    "position": 3320230145,
+    "length": 602516
+  },
+  {
+    "header": ">KI270936.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_6",
+    "position": 3321309982,
+    "length": 164170
+  },
+  {
+    "header": ">GL000255.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_6",
+    "position": 3321476322,
+    "length": 407355
+  },
+  {
+    "header": ">GL949751.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_6",
+    "position": 3326140408,
+    "length": 979003
+  },
+  {
+    "header": ">KI270937.1 Homo sapiens chromosome 3 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_7",
+    "position": 3327155742,
+    "length": 165607
+  },
+  {
+    "header": ">GL000256.2 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_7",
+    "position": 3327323537,
+    "length": 846111
+  },
+  {
+    "header": ">GL949752.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_7",
+    "position": 3332314540,
+    "length": 59248
+  },
+  {
+    "header": ">KI270758.1 Homo sapiens chromosome 6 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_8",
+    "position": 3333314096,
+    "length": 76752
+  },
+  {
+    "header": ">GL949753.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_8",
+    "position": 3333391926,
+    "length": 30794
+  },
+  {
+    "header": ">KI270938.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_9",
+    "position": 3334198479,
+    "length": 269829
+  },
+  {
+    "header": ">KI270882.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_10",
+    "position": 3335278733,
+    "length": 238542
+  },
+  {
+    "header": ">KI270883.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_11",
+    "position": 3335530770,
+    "length": 170399
+  },
+  {
+    "header": ">KI270884.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_12",
+    "position": 3335703418,
+    "length": 157053
+  },
+  {
+    "header": ">KI270885.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_13",
+    "position": 3335862554,
+    "length": 171027
+  },
+  {
+    "header": ">KI270886.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_14",
+    "position": 3336035838,
+    "length": 204239
+  },
+  {
+    "header": ">KI270887.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_15",
+    "position": 3336242749,
+    "length": 209512
+  },
+  {
+    "header": ">KI270888.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_16",
+    "position": 3336454999,
+    "length": 112428
+  },
+  {
+    "header": ">KI270889.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_17",
+    "position": 3336612595,
+    "length": 170698
+  },
+  {
+    "header": ">KI270890.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_18",
+    "position": 3336785546,
+    "length": 184499
+  },
+  {
+    "header": ">KI270891.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_19",
+    "position": 3336972471,
+    "length": 170680
+  },
+  {
+    "header": ">KI270914.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_20",
+    "position": 3337145404,
+    "length": 205194
+  },
+  {
+    "header": ">KI270915.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_21",
+    "position": 3337353282,
+    "length": 170665
+  },
+  {
+    "header": ">KI270916.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_22",
+    "position": 3337526200,
+    "length": 90082
+  },
+  {
+    "header": ">KI270917.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_23",
+    "position": 3337713142,
+    "length": 190932
+  },
+  {
+    "header": ">KI270918.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_24",
+    "position": 3337906580,
+    "length": 123111
+  },
+  {
+    "header": ">KI270919.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_25",
+    "position": 3338031349,
+    "length": 170701
+  },
+  {
+    "header": ">KI270920.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_26",
+    "position": 3338204303,
+    "length": 198005
+  },
+  {
+    "header": ">KI270921.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_27",
+    "position": 3338404903,
+    "length": 257858
+  },
+  {
+    "header": ">KI270922.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_28",
+    "position": 3338690774,
+    "length": 187935
+  },
+  {
+    "header": ">KI270923.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_29",
+    "position": 3338881178,
+    "length": 189352
+  },
+  {
+    "header": ">KI270929.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_30",
+    "position": 3339073016,
+    "length": 186203
+  },
+  {
+    "header": ">KI270930.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_31",
+    "position": 3339261666,
+    "length": 200773
+  },
+  {
+    "header": ">KI270931.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_32",
+    "position": 3339465068,
+    "length": 170148
+  },
+  {
+    "header": ">KI270932.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_33",
+    "position": 3339637462,
+    "length": 76147
+  },
+  {
+    "header": ">KI270933.1 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_34",
+    "position": 3339856010,
+    "length": 170537
+  },
+  {
+    "header": ">GL000209.2 Homo sapiens chromosome 19 genomic contig, GRCh38 reference assembly alternate locus group ALT_REF_LOCI_35",
+    "position": 3340028798,
+    "length": 177381
+  },
+  {
+    "header": ">J01415.2 Homo sapiens mitochondrion, complete genome",
+    "position": 3340208451,
+    "length": 16570
+  }
+]
