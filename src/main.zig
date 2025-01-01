@@ -1,114 +1,12 @@
+const root = @import("root.zig");
 const std = @import("std");
 const fs = std.fs;
 const print = std.debug.print;
 const json = std.json;
-
-const FastaSequence = struct {
-    header: []const u8,
-    position: usize,
-    length: usize,
-
-    pub fn jsonStringify(self: FastaSequence, jw: anytype) !void {
-        try jw.beginObject();
-        try jw.objectField("header");
-        try jw.write(self.header);
-        try jw.objectField("position");
-        try jw.write(self.position);
-        try jw.objectField("length");
-        try jw.write(self.length);
-        try jw.endObject();
-    }
-};
-
-const Command = enum {
-    index,
-    read,
-
-    pub fn fromString(str: []const u8) !Command {
-        if (std.mem.eql(u8, str, "index")) return .index;
-        if (std.mem.eql(u8, str, "read")) return .read;
-        return error.InvalidCommand;
-    }
-};
-
-pub fn readSequenceWindow(file: fs.File, sequence: FastaSequence, window_start: usize, window_size: usize) ![]u8 {
-    if (window_start >= sequence.length) {
-        return error.WindowOutOfBounds;
-    }
-
-    const actual_window_size = @min(window_size, sequence.length - window_start);
-    const page_size = std.mem.page_size;
-
-    const file_position = sequence.position + window_start;
-    const aligned_offset = (file_position / page_size) * page_size;
-    const offset_adjustment = file_position - aligned_offset;
-
-    const map_size = actual_window_size + offset_adjustment;
-
-    const ptr = try std.posix.mmap(
-        null,
-        map_size,
-        std.posix.PROT.READ,
-        .{ .TYPE = .PRIVATE },
-        file.handle,
-        aligned_offset,
-    );
-    defer std.posix.munmap(ptr[0..map_size]);
-
-    // Count newlines in the window to allocate correct buffer size
-    var newline_count: usize = 0;
-    for (ptr[offset_adjustment..map_size]) |c| {
-        if (c == '\n') newline_count += 1;
-    }
-
-    // Allocate buffer for sequence without newlines
-    var sequence_data = try std.heap.page_allocator.alloc(u8, actual_window_size - newline_count);
-
-    // Copy data, skipping newlines
-    var write_pos: usize = 0;
-    for (ptr[offset_adjustment..map_size]) |c| {
-        if (c != '\n') {
-            sequence_data[write_pos] = c;
-            write_pos += 1;
-        }
-    }
-
-    return sequence_data;
-}
-
-const IndexEntry = struct {
-    header: []const u8,
-    position: usize,
-    length: usize,
-};
-
-pub fn loadIndex(allocator: std.mem.Allocator, index_path: []const u8) !std.ArrayList(FastaSequence) {
-    const index_file = try fs.cwd().openFile(index_path, .{});
-    defer index_file.close();
-
-    const index_contents = try index_file.readToEndAlloc(allocator, std.math.maxInt(usize));
-    defer allocator.free(index_contents);
-
-    var sequences = std.ArrayList(FastaSequence).init(allocator);
-    errdefer sequences.deinit();
-
-    // Parse the JSON array
-    const IndexFile = []IndexEntry;
-    const parsed = try json.parseFromSlice(IndexFile, allocator, index_contents, .{});
-    defer parsed.deinit();
-
-    // Convert the parsed entries to FastaSequences
-    for (parsed.value) |entry| {
-        const header = try allocator.dupe(u8, entry.header);
-        try sequences.append(FastaSequence{
-            .header = header,
-            .position = entry.position,
-            .length = entry.length,
-        });
-    }
-
-    return sequences;
-}
+const Command = root.Command;
+const FastaSequence = root.FastaSequence;
+const loadIndex = root.loadIndex;
+const readSequenceWindow = root.readSequenceWindow;
 
 pub fn scanFastaSequences(file: fs.File, allocator: std.mem.Allocator) !std.ArrayList(FastaSequence) {
     const file_size = try file.getEndPos();
@@ -216,6 +114,9 @@ pub fn main() !void {
         return error.InvalidArguments;
     }
 
+    var timer = try std.time.Timer.start();
+    const start_time = timer.lap();
+
     const cmd = try Command.fromString(args[1]);
     switch (cmd) {
         .index => {
@@ -244,9 +145,12 @@ pub fn main() !void {
             const writer = output_file.writer();
             try json.stringify(sequences.items, .{ .whitespace = .indent_2 }, writer);
 
+            const end_time = timer.lap();
+            const elapsed_ns = end_time - start_time;
             print("\nFASTA Index Complete:\n", .{});
             print("  Number of sequences: {d}\n", .{sequences.items.len});
             print("  Index written to: {s}\n", .{output_filename});
+            print("  Time taken: {d}ms\n", .{elapsed_ns / std.time.ns_per_ms});
         },
         .read => {
             if (args.len < 5 or args.len > 7) {
@@ -287,7 +191,12 @@ pub fn main() !void {
             const sequence_data = try readSequenceWindow(file, sequence, window_start, window_size);
             defer std.heap.page_allocator.free(sequence_data);
 
-            print("{s}\n", .{sequence_data});
+            const end_time = timer.lap();
+            const elapsed_ns = end_time - start_time;
+            print("\nSequence read complete:\n", .{});
+            print("  Sequence length: {d}\n", .{sequence_data.len});
+            print("  Time taken: {d}ms\n", .{elapsed_ns / std.time.ns_per_ms});
+            print("\nSequence data:\n{s}\n", .{sequence_data});
         },
     }
 }
