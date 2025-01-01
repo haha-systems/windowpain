@@ -14,7 +14,7 @@ Windowpain provides lightning-fast random access to FASTA sequence files by usin
 ## Installation
 
 ```bash
-git clone https://github.com/jason-m-hicks/windowpain.git
+git clone https://github.com/haha-systems/windowpain.git
 cd windowpain
 zig build --release=fast
 ```
