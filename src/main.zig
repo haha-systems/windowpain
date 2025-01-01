@@ -109,7 +109,7 @@ pub fn main() !void {
 
     if (args.len < 2) {
         print("Usage:\n", .{});
-        print("  {s} index <fasta_filename> <output.json>\n", .{args[0]});
+        print("  {s} index <fasta_filename> <index.json>\n", .{args[0]});
         print("  {s} read <fasta_filename> <index.json> <sequence_index> [window_size] [window_start]\n", .{args[0]});
         return error.InvalidArguments;
     }
